@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.4.1">
+        <ModelTarget name="CTlumbarSpine500" targetId="a7ee1d6c88ef4e9bbd43acf71233d11e" version="14.0" toolVersion="v7.4.1" bbox="-0.161771 -0.00266699 -0.053622 0.13873 0.213125 0.056875" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="CTlumbarSpine500" assemblyId="33f2a26a7337461287712fec544cd984">
+        <Part name="CTlumbarSpine500" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
