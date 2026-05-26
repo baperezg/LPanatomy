@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - NeedleTip
+  - skin
+  - subcutaneous
+  - supra
+  - inter
+  - flavum
+  - epidural
+  - dura
   layers:
   - Default
   - TransparentFX
